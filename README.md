@@ -1,2 +1,2 @@
 # ACC-Challenge1
-ACC project
+Fazer o download do .zip e abrir com Eclipse ou outra IDE
